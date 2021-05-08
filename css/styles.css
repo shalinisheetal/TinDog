@@ -232,4 +232,10 @@ p {
     transform: rotate(0);
     margin-left: 0px;
   }
+  .card-img-top {
+    height: 220px;
+    width: 100%;
+    max-width: 450px;
+    align-self: center;
+  }
 }
