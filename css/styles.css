@@ -232,9 +232,4 @@ p {
     transform: rotate(0);
     margin-left: 0px;
   }
-  .card{
-    max-width: 450px;
-    align-self: center;
-    margin-left: 100px;
-  }
 }
