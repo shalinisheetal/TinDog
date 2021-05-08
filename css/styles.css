@@ -232,4 +232,7 @@ p {
     transform: rotate(0);
     margin-left: 0px;
   }
+  .card-img-top{
+    align-self: center;
+  }
 }
